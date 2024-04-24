@@ -1,6 +1,6 @@
 # Research-Papers
 
-This is a collection of all the research papers that I authored, or took part in writing. 
+This is a collection of all the research papers that I authored, or coauthored. 
 
 ## FMLA Law Impact
 
